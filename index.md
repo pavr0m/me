@@ -1,4 +1,4 @@
-# Independent Developer
+# Pavlo Romanenko. Independent Developer
 
 I design and build private, customer-focused applications as an independent developer.
 
