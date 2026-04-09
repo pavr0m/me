@@ -12,6 +12,10 @@ The application may store authentication tokens and device identifiers locally i
 
 No personal data is shared with third parties.
 
+## Camera access.
+
+App required access to camera that allows to scan barcodes on the physical item labels.
+
 ## Contact
 
 For questions, contact: pavel.m8k@gmail.com
