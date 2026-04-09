@@ -14,4 +14,4 @@ No personal data is shared with third parties.
 
 ## Contact
 
-For questions, contact: your-email@example.com
+For questions, contact: pavel.m8k@gmail.com
