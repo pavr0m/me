@@ -1,2 +1,2 @@
 # me
-my personal devloper page on github
+my github page
